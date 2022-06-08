@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/projetos_kotlin/lista_de_tarefas/app/src/main/res/drawable-v24/ic_add.xml" value="0.26615384615384613" />
+        <entry key="..\:/projetos_kotlin/lista_de_tarefas/app/src/main/res/drawable-v24/ic_calendar.xml" value="0.26615384615384613" />
+        <entry key="..\:/projetos_kotlin/lista_de_tarefas/app/src/main/res/drawable-v24/ic_empty_state.xml" value="0.26615384615384613" />
+        <entry key="..\:/projetos_kotlin/lista_de_tarefas/app/src/main/res/drawable-v24/ic_launcher_background.xml" value="0.26615384615384613" />
+        <entry key="..\:/projetos_kotlin/lista_de_tarefas/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.26615384615384613" />
+        <entry key="..\:/projetos_kotlin/lista_de_tarefas/app/src/main/res/drawable-v24/ic_more.xml" value="0.26615384615384613" />
+        <entry key="..\:/projetos_kotlin/lista_de_tarefas/app/src/main/res/drawable-v24/ic_navigate.xml" value="0.26615384615384613" />
+        <entry key="..\:/projetos_kotlin/lista_de_tarefas/app/src/main/res/drawable-v24/ic_timer.xml" value="0.26615384615384613" />
+        <entry key="..\:/projetos_kotlin/lista_de_tarefas/app/src/main/res/drawable/ic_empty_state.xml" value="0.14635416666666667" />
+        <entry key="..\:/projetos_kotlin/lista_de_tarefas/app/src/main/res/layout-w1240dp/activity_login.xml" value="0.16331994645247658" />
+        <entry key="..\:/projetos_kotlin/lista_de_tarefas/app/src/main/res/layout-w936dp/activity_login.xml" value="0.190625" />
+        <entry key="..\:/projetos_kotlin/lista_de_tarefas/app/src/main/res/layout/activity_add_task.xml" value="0.264" />
+        <entry key="..\:/projetos_kotlin/lista_de_tarefas/app/src/main/res/layout/activity_login.xml" value="0.25416666666666665" />
+        <entry key="..\:/projetos_kotlin/lista_de_tarefas/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/projetos_kotlin/lista_de_tarefas/app/src/main/res/layout/activity_nova.xml" value="0.13020833333333334" />
+        <entry key="..\:/projetos_kotlin/lista_de_tarefas/app/src/main/res/layout/activity_teste.xml" value="0.264" />
+        <entry key="..\:/projetos_kotlin/lista_de_tarefas/app/src/main/res/layout/empty_state.xml" value="0.13020833333333334" />
+        <entry key="..\:/projetos_kotlin/lista_de_tarefas/app/src/main/res/layout/item_task.xml" value="0.264" />
+        <entry key="..\:/projetos_kotlin/lista_de_tarefas/app/src/main/res/menu/bottom_nav_menu.xml" value="0.264" />
+        <entry key="..\:/projetos_kotlin/lista_de_tarefas/app/src/main/res/menu/popup_menu.xml" value="0.2" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8 (16)" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
