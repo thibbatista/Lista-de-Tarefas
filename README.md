@@ -1,5 +1,5 @@
 # Aplicativo Android - Lista de Tarefas
-![](foto1.jpg) ![](foto2.jpg) ![](foto3.jpg) ![](foto4.jpg) ![](foto5.jpg)
+![](tela1.jpg) ![](tela2.jpg) ![](tela3.jpg) ![](tela4.jpg) ![](tela5.jpg)
 
 Aplicativo Android para criar uma lista de tarefa
 
